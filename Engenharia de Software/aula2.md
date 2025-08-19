@@ -14,9 +14,11 @@
 
 ## Anotações
 
-- 
-- 
-- 
+## A Essência da prática: 
+- Planeja a solução
+- Problemas similares anteriormente?
+- Algum problema similar já foi resolvido?
+- É possível definir subproblemas?
 
 ---
 
