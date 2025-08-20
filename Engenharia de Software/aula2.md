@@ -32,7 +32,7 @@
 
 # O que é Engenharia de Software?
 
-- É uma área da COmputação que aplica princípios, metódos e ferramentas para o desenvolvimento, manutenção e evolução, buscando qualidade, eficiência e confiabilidade.
+- É uma área da Computação que aplica princípios, metódos e ferramentas para o desenvolvimento, manutenção e evolução, buscando qualidade, eficiência e confiabilidade.
 
 ## Por que Engenharia de Software é importante?
 
@@ -46,9 +46,28 @@
 
 | Programação                          | Engenharia de Software                |
 |--------------------------------------|---------------------------------------|
-| Foco na condificação. | Foco em todo o ciclo de vida do software. |
-| Resolve problemas pontuais. | Garante qualidade, manutenção e evolução. |
-| Pode ser feita de forma improvisada. | Segue métodos e processos. |
+| Foco na condificação.                | Foco em todo o ciclo de vida do software. |
+| Resolve problemas pontuais.          | Garante qualidade, manutenção e evolução. |
+| Pode ser feita de forma improvisada. | Segue métodos e processos.                |
+
+# Principais atividades de Engenharia de Software
+ - Análise de requisitos; -> Levantamento das necessidades do cliente.
+ - Projeto de software; -> Definição da arquitetura e madelagem.
+ - Implementação; -> Codificação do sistema.
+ - Testes; -> Verificação e validação.
+ - Implantação; -> COlocar o sitema em produção.
+ - Manutenção. -> Correção e atualização do software.
+
+# Metodologias de Desenvolvimento
+- Existem diferentes formas de organizar e conduzir um projeto:
+    - *Tradicionais:*
+        - Modelo Cascata (Waterfall);
+        - Modero Espiral;
+
+    - *Ágeis:*
+        - Scrum;
+        - Kanban;
+        - Extreme Programming (XP);
 
 ## Dúvidas
 
