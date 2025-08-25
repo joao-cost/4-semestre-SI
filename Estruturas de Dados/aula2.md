@@ -15,12 +15,12 @@
 - Estrutura de dados unidimensionais;
 - Índice único que controla as posições;
 
-## <Tipo><Nome>[<tamanho>]
+**<Tipo><Nome>[<tamanho>]**
 
 - Acessando a uma posição:
     - Não é possível acessar um vetor todo;
 
-## <nome>[<indice>]
+**<nome>[<indice>]**
 
 - Lista de inicialização: preenche um vetor todo de uma só vez
 <tipo> <nome> [<tam.>] = {<v1>, <v2>, <v3>, ..., <vn>};
