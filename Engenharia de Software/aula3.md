@@ -16,7 +16,7 @@
     - Prototipação e espiral
         - Especificação e desenvolvimento dão intercalados.
 
-#### Modelos Cascata
+# Modelos Cascata
 - Um dos principais modelos (Royce, 1970);
 - O desenvolvimento de um estágio deve acabar antes da outra começar;
 - Simples, mas não reflete como é desenvolvido o software;
@@ -78,5 +78,21 @@ Intensifica a coleta de requisitos, identificando funções necessárias e desen
 ---
 # Como documentar o levantamento de requisitos
 - Deve registrar o tipo do requisito, e a prioridade (Essencial, Importante ou Desejável);
+- **Essencial:** Requisitos que são fundamentais para o bom funcionamento do sistema, podem ser implantados depois.
+- **Importante:** Requisitos que são obrigatórios para o sistema funcionar.
+- **Desejável:** Requisitos que são bons de ter, mas não são necessários.
 
-![image.png](image.png)
+![image.png](./img/image.png)
+
+- Projeto
+- Codificação
+- Testes
+- Manutenção
+- Problemas
+- Prototipação
+
+---
+
+# Modelo Espiral
+
+-
