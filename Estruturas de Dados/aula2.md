@@ -67,3 +67,49 @@
         return 0;
     }
 ```
+
+```cpp
+    #include <iostream>
+
+    int main()
+    {
+        float v[5];
+        int i;
+        
+        for(i=0; i<5; i++){
+            std::cout<<"Insira um número: ";
+            std::cin>>v[i];
+        }
+        
+        std::cout<<"Dados inseridos:\n";
+        for(i=0; i<5; i++){
+            std::cout<<v[i]<<"\n";
+        }
+
+        return 0;
+    }
+```
+
+```cpp
+    #include <iostream>
+
+    int main()
+    {
+        char nomes[5][50];
+        int i;
+        
+        std::cout<<"Digite os nomes:\n";
+        
+        for(i=0; i<5; i++){
+            std::cout<<"Nome "<<i+1<<": ";
+            std::cin>>nomes[i];
+        }
+        
+        std::cout<<"\nNomes digitados:\n";
+        for(i=0; i<5; i++){
+            std::cout<<nomes[i]<<"\n";
+        }
+
+        return 0;
+    }
+```
